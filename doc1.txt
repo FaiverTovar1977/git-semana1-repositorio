@@ -1,3 +1,10 @@
  # git-semana1-repositorio
 # git-semana1-repositorio
-Primera linea de texto del documento
+Primera linea de texto del documento NUMERO 1.
+ 
+
+
+
+
+
+
